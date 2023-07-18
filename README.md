@@ -1,7 +1,7 @@
 # Awesome-Korean-AI-Youtubes 🌺
 : 한국에서 AI를 위해 힘쓰는 모든 채널을 모아두고자 합니다.
 
-(업데이트 날짜: 23.03.29)
+(업데이트 날짜: 23.07.18)
 
 ----
 
@@ -244,6 +244,12 @@
 ### 9. WeeklyAIArXiv
 - 한주간의 AI 소식과 논문을 깃털처럼 가벼운 만담으로 전함.
 - 링크: https://www.youtube.com/@weeklyaiarxiv/videos
+
+<br>
+
+### 10. 백색나무
+- AI 경향 및 시야 제공
+- 링크: https://www.youtube.com/@White_tree
 
 <br>
 
