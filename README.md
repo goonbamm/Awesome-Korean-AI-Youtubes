@@ -1,7 +1,7 @@
 # Awesome-Korean-AI-Youtubes 🌺
 : 한국에서 AI를 위해 힘쓰는 모든 채널을 모아두고자 합니다.
 
-(업데이트 날짜: 23.07.18)
+(업데이트 날짜: 23.07.26)
 
 ----
 
@@ -124,6 +124,13 @@
 - 링크: https://www.youtube.com/@LaonPeopleInc
 
 <br>
+
+### 19. JoonHo LEE
+- AI 관련 논문 세미나 제공
+- 링크: https://www.youtube.com/@joonholee1146
+
+<br>
+
 
 ----
 
