@@ -132,6 +132,13 @@
 <br>
 
 
+### 20. NLP 코기
+- AI 관련 논문 세미나 제공
+- 재치 있게 MZ스럽게 표현함
+- 링크: https://youtube.com/@corgi_NLP
+
+<br>
+
 ----
 
 <br>
