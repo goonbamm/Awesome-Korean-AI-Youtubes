@@ -1,7 +1,7 @@
 # Awesome-Korean-AI-Youtubes 🌺
 : 한국에서 AI를 위해 힘쓰는 모든 채널을 모아두고자 합니다.
 
-(업데이트 날짜: 24.01.09)
+(업데이트 날짜: 24.03.20)
 
 ----
 
@@ -144,6 +144,13 @@
 - AI 관련 논문 세미나 제공
 - 한국인이신데 openAI researcher 로 활동하시며 거대 모델 연구를 진행하심
 - 링크: https://youtube.com/@hyungwonchung5222
+
+<br>
+
+
+### 22. 거꾸로 읽는 AI 이야기
+- AI 관련 논문 세미나 제공
+- 링크: https://www.youtube.com/@gokkulearn
 
 <br>
 
